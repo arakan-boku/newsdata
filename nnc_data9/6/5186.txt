@@ -1,0 +1,17 @@
+http://news.livedoor.com/article/detail/6678601/
+2012-06-21T07:25:00+0900
+Microsoft、WindowsPhone7.x搭載端末向けの最新「WindowsPhone7.8」を発表！WindowsPhone8の機能を先取り
+WindowsPhone7.8が発表！
+Microsoftは20日（現地時間）、アメリカ・サンフランシスコで発表イベント「WindowsPhoneSummit」を開催し、現在提供されている「WindowsPhone7.5」などの既存端末向けに最新バージョンアップ「WindowsPhone7.8」を発表しています
+WindowsPhoneSummitではスマートフォンやタブレット向けの次世代モバイルプラットフォーム「WindowsPhone8」が発表され、既存のWindowsPhone7.x搭載デバイス向けにはOSバージョンアップを行いことを明言し、その救済策としてWindowsPhone8の新機能を取り入れたWindowsPhone7.8を用意したことを案内しています
+WindowsPhone7.8は、WindowsPhone8の新機能のひとつであるMetroUIによるタイルベースのホーム画面におけるタイルの大きさを任意にカスタマイズできる機能や新しいスタート画面などが採用されています
+具体的な提供時期や提供通信事業者、提供端末については言及がありませんでしたが、プレゼン資料には「Lumia800」（ノキア製）や「SamsungFocusS」（サムスン電子製）、「HTCRadar」（HTC製）といった端末が表示されていました
+さらに、PaulThurrott氏によれば、「WindowsPhoneユーザーはWindowsPhone7.8のOSアップデートをダイレクトに受けられる」と示しており、通信事業者の意向などに関係なくアップデート対応端末であれば、アップデートできそうです
+ただし、国内向け端末は現状「WindowsPhoneIS12T」のみで、au向けのサービスもいくつかあるためKDDIの意向も大きく関係してきそうですけども……
+アップデートされることを期待したいと思います！
+記事執筆：memn0ck
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX）smaxjponTwitter
+・AnnouncingWindowsPhone8
+・WindowsPhone7.8Preview

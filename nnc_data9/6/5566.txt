@@ -1,0 +1,15 @@
+http://news.livedoor.com/article/detail/6856195/
+2012-08-15T09:55:00+0900
+サムスン電子、NTTドコモ向け「GALAXYNoteSC-05D」のAndroid4.0ICSへのOSバージョンアップを8月中に対応予定
+GALAXYNoteSC-05DのAndroid4.0が8月中に！
+サムスン電子は、NTTドコモ向けに提供している同社製のAndroidスマートフォン「GALAXYNoteSC-05D」におけるより新しいプラットフォーム「Android4.0（開発コード名：IceCreamSandwich；ICS）」へのOSバージョンアップを2012年8月中に提供予定であることを特設サイト「SamsungGALAXYNote-SamsungMobile」にて案内しています
+特設サイトには「GALAXYNotePremiumsuite」というGALAXYNoteの機能をより便利に使いやすく進化させたAndroid4.0へのアップグレード版といった紹介ムービーが掲載されており、GALAXYNoteの特徴的な機能の「Sノート」や「Sメモ」が進化したとして、「2012年8月対応予定」と示されています
+GALAXYNoteSC-05Dは、今年4月に発売開始された5.3インチ大画面ディスプレイと、Sペンという電磁誘導式タッチペンによって繊細なペン入力が可能になったスマートフォンです
+発売時には、Android2.3（開発コード名：Gingerbread）を搭載していましたが、NTTドコモからも2012年8月以降にAndroid4.0にOSバージョンアップすることが案内されていました
+さらに、今回、サムスン電子の特設サイトにて2012年8月対応予定と示されていることから8月中にもAndroid4.0へのOSバージョンアップをするためのソフトウェア更新が提供されるものと思われます
+海外版のGALAXYNoteはすでにAndroid4.0へのOSバージョンアップが開始されていますので、ドコモ版も早くバージョンアップしたいところですね
+記事執筆：memn0ck
+■関連リンク
+・エスマックス（S-MAX）
+・エスマックス（S-MAX）smaxjponTwitter
+・SamsungGALAXYNote-SamsungMobile
